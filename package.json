@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/constants-int8",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "8-bit signed integer mathematical constants.",
   "license": "Apache-2.0",
   "author": {
